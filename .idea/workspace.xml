@@ -2,12 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1c61601a-1e07-43ef-8b48-6c7d808b99f6" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/problem3/student/Student.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/problem1/main/MyMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/problem1/main/MyMain.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/problem3/myqueue/MyPriorityQueue.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/problem3/myqueue/MyPriorityQueue.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/problem3/node/Node.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/problem3/LinkedList/LinkedList.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -82,7 +77,7 @@
       <workItem from="1585061093538" duration="678000" />
       <workItem from="1585071424280" duration="11953000" />
       <workItem from="1585156780193" duration="3302000" />
-      <workItem from="1585201338605" duration="1241000" />
+      <workItem from="1585201338605" duration="1517000" />
     </task>
     <task id="LOCAL-00001" summary="init commit">
       <created>1585061129209</created>
@@ -91,7 +86,28 @@
       <option name="project" value="LOCAL" />
       <updated>1585061129209</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="LinkedList.java imported">
+      <created>1585202733831</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1585202733831</updated>
+    </task>
+    <task id="LOCAL-00003" summary="make enqueue method in priority queue MyPriorityQueue.java">
+      <created>1585202905624</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1585202905625</updated>
+    </task>
+    <task id="LOCAL-00004" summary="make dequeue method in priority queue MyPriorityQueue.java">
+      <created>1585202953294</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1585202953294</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -99,17 +115,24 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="init commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="init commit" />
+    <MESSAGE value="LinkedList.java imported" />
+    <MESSAGE value="make enqueue method in priority queue MyPriorityQueue.java" />
+    <MESSAGE value="make dequeue method in priority queue MyPriorityQueue.java" />
+    <option name="LAST_COMMIT_MESSAGE" value="make dequeue method in priority queue MyPriorityQueue.java" />
   </component>
   <component name="WindowStateProjectService">
     <state x="888" y="124" key="#com.intellij.ide.util.MemberChooser" timestamp="1585073337289">
       <screen x="0" y="0" width="1600" height="870" />
     </state>
     <state x="888" y="124" key="#com.intellij.ide.util.MemberChooser/0.0.1600.870@0.0.1600.870" timestamp="1585073337289" />
-    <state x="349" y="29" key="CommitChangelistDialog2" timestamp="1585202903960">
+    <state x="349" y="29" key="CommitChangelistDialog2" timestamp="1585202951800">
       <screen x="0" y="0" width="1600" height="870" />
     </state>
-    <state x="349" y="29" key="CommitChangelistDialog2/0.0.1600.870@0.0.1600.870" timestamp="1585202903960" />
+    <state x="349" y="29" key="CommitChangelistDialog2/0.0.1600.870@0.0.1600.870" timestamp="1585202951800" />
+    <state x="154" y="67" key="DiffContextDialog" timestamp="1585202934275">
+      <screen x="0" y="0" width="1600" height="870" />
+    </state>
+    <state x="154" y="67" key="DiffContextDialog/0.0.1600.870@0.0.1600.870" timestamp="1585202934275" />
     <state width="1557" height="2" key="GridCell.Tab.0.bottom" timestamp="1585201762542">
       <screen x="0" y="0" width="1600" height="870" />
     </state>

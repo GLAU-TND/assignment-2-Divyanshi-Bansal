@@ -72,6 +72,13 @@ public class MyPriorityQueue {
         }
     }
 
+    public void display(LinkedList linkedList){
+        System.out.println ("welcome to our class...");
+        linkedList.displayNode ();
+    }
+
+
+
 
 }
 
