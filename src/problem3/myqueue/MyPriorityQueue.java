@@ -52,42 +52,7 @@ public class MyPriorityQueue {
         System.out.println ("your imfo. has been added..");
     }
 
-    public void dequeue(LinkedList linkedList){
-        if(!linkedList.isEmpty ()){
-            System.out.println ("enter student name whose data will delete..");
-            String studentname = scanner.nextLine ();
-            int position = linkedList.indexOf ( studentname );
-            if(position >= 0) {
-                linkedList.deleteAtAnyPosition ( position );
-                System.out.println ("congoo!! your data has been deleted..");
-                size--;
-            }
-            else{
-                System.out.println ("this student "+studentname+" ain't in our class..");
-            }
 
-        }
-        else{
-            System.out.println ("sorry!! already empty list has been found..");
-        }
-    }
-
-    public void display(LinkedList linkedList){
-        System.out.println ("welcome to our class...");
-        linkedList.displayNode ();
-    }
-
-    public void peak(LinkedList linkedList){
-        System.out.println ("enter rollno for searching..");
-        int rollno = scanner.nextInt ();
-        if(linkedList.searchNode (rollno ) == "found"){
-            System.out.println ("hurry!! your student is in class of rollno is..");
-            System.out.println (rollno);
-        }
-        else{
-            System.out.println ("sorry!! not matched..");
-        }
-    }
 }
 
 
