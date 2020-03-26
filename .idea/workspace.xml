@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1c61601a-1e07-43ef-8b48-6c7d808b99f6" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/src/problem3/myqueue/MyPriorityQueue.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/problem3/myqueue/MyPriorityQueue.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -77,7 +77,9 @@
       <workItem from="1585061093538" duration="678000" />
       <workItem from="1585071424280" duration="11953000" />
       <workItem from="1585156780193" duration="3302000" />
-      <workItem from="1585201338605" duration="1517000" />
+      <workItem from="1585201338605" duration="2079000" />
+      <workItem from="1585219036793" duration="1205000" />
+      <workItem from="1585252598638" duration="605000" />
     </task>
     <task id="LOCAL-00001" summary="init commit">
       <created>1585061129209</created>
@@ -107,7 +109,49 @@
       <option name="project" value="LOCAL" />
       <updated>1585202953294</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="make display method in priority queue MyPriorityQueue.java">
+      <created>1585202983361</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1585202983361</updated>
+    </task>
+    <task id="LOCAL-00006" summary="make peak method in priority queue MyPriorityQueue.java">
+      <created>1585203004579</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1585203004579</updated>
+    </task>
+    <task id="LOCAL-00007" summary="make Student.java &#10;and make constructor">
+      <created>1585203079818</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1585203079818</updated>
+    </task>
+    <task id="LOCAL-00008" summary="make getter and setter for all variables in Student.java">
+      <created>1585203118650</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1585203118650</updated>
+    </task>
+    <task id="LOCAL-00009" summary="make main class of prob3">
+      <created>1585203164043</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1585203164043</updated>
+    </task>
+    <task id="LOCAL-00010" summary="completing main class of prob3">
+      <created>1585203183955</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1585203183955</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -118,45 +162,51 @@
     <MESSAGE value="LinkedList.java imported" />
     <MESSAGE value="make enqueue method in priority queue MyPriorityQueue.java" />
     <MESSAGE value="make dequeue method in priority queue MyPriorityQueue.java" />
-    <option name="LAST_COMMIT_MESSAGE" value="make dequeue method in priority queue MyPriorityQueue.java" />
+    <MESSAGE value="make display method in priority queue MyPriorityQueue.java" />
+    <MESSAGE value="make peak method in priority queue MyPriorityQueue.java" />
+    <MESSAGE value="make Student.java &#10;and make constructor" />
+    <MESSAGE value="make getter and setter for all variables in Student.java" />
+    <MESSAGE value="make main class of prob3" />
+    <MESSAGE value="completing main class of prob3" />
+    <option name="LAST_COMMIT_MESSAGE" value="completing main class of prob3" />
   </component>
   <component name="WindowStateProjectService">
     <state x="888" y="124" key="#com.intellij.ide.util.MemberChooser" timestamp="1585073337289">
       <screen x="0" y="0" width="1600" height="870" />
     </state>
     <state x="888" y="124" key="#com.intellij.ide.util.MemberChooser/0.0.1600.870@0.0.1600.870" timestamp="1585073337289" />
-    <state x="349" y="29" key="CommitChangelistDialog2" timestamp="1585203162746">
+    <state x="349" y="29" key="CommitChangelistDialog2" timestamp="1585203182500">
       <screen x="0" y="0" width="1600" height="870" />
     </state>
-    <state x="349" y="29" key="CommitChangelistDialog2/0.0.1600.870@0.0.1600.870" timestamp="1585203162746" />
+    <state x="349" y="29" key="CommitChangelistDialog2/0.0.1600.870@0.0.1600.870" timestamp="1585203182500" />
     <state x="154" y="67" key="DiffContextDialog" timestamp="1585202934275">
       <screen x="0" y="0" width="1600" height="870" />
     </state>
     <state x="154" y="67" key="DiffContextDialog/0.0.1600.870@0.0.1600.870" timestamp="1585202934275" />
-    <state width="1557" height="2" key="GridCell.Tab.0.bottom" timestamp="1585201762542">
+    <state width="1557" height="2" key="GridCell.Tab.0.bottom" timestamp="1585203530749">
       <screen x="0" y="0" width="1600" height="870" />
     </state>
-    <state width="1557" height="2" key="GridCell.Tab.0.bottom/0.0.1600.870@0.0.1600.870" timestamp="1585201762542" />
-    <state width="1557" height="2" key="GridCell.Tab.0.center" timestamp="1585201762542">
+    <state width="1557" height="2" key="GridCell.Tab.0.bottom/0.0.1600.870@0.0.1600.870" timestamp="1585203530749" />
+    <state width="1557" height="2" key="GridCell.Tab.0.center" timestamp="1585203530749">
       <screen x="0" y="0" width="1600" height="870" />
     </state>
-    <state width="1557" height="2" key="GridCell.Tab.0.center/0.0.1600.870@0.0.1600.870" timestamp="1585201762542" />
-    <state width="1557" height="2" key="GridCell.Tab.0.left" timestamp="1585201762542">
+    <state width="1557" height="2" key="GridCell.Tab.0.center/0.0.1600.870@0.0.1600.870" timestamp="1585203530749" />
+    <state width="1557" height="2" key="GridCell.Tab.0.left" timestamp="1585203530749">
       <screen x="0" y="0" width="1600" height="870" />
     </state>
-    <state width="1557" height="2" key="GridCell.Tab.0.left/0.0.1600.870@0.0.1600.870" timestamp="1585201762542" />
-    <state width="1557" height="2" key="GridCell.Tab.0.right" timestamp="1585201762542">
+    <state width="1557" height="2" key="GridCell.Tab.0.left/0.0.1600.870@0.0.1600.870" timestamp="1585203530749" />
+    <state width="1557" height="2" key="GridCell.Tab.0.right" timestamp="1585203530749">
       <screen x="0" y="0" width="1600" height="870" />
     </state>
-    <state width="1557" height="2" key="GridCell.Tab.0.right/0.0.1600.870@0.0.1600.870" timestamp="1585201762542" />
-    <state x="392" y="170" key="Vcs.Push.Dialog.v2" timestamp="1585061136576">
+    <state width="1557" height="2" key="GridCell.Tab.0.right/0.0.1600.870@0.0.1600.870" timestamp="1585203530749" />
+    <state x="392" y="170" key="Vcs.Push.Dialog.v2" timestamp="1585253679212">
       <screen x="0" y="0" width="1600" height="870" />
     </state>
-    <state x="392" y="170" key="Vcs.Push.Dialog.v2/0.0.1600.870@0.0.1600.870" timestamp="1585061136576" />
-    <state x="507" y="261" key="com.intellij.ide.util.TipDialog" timestamp="1585071424060">
+    <state x="392" y="170" key="Vcs.Push.Dialog.v2/0.0.1600.870@0.0.1600.870" timestamp="1585253679212" />
+    <state x="507" y="261" key="com.intellij.ide.util.TipDialog" timestamp="1585253646235">
       <screen x="0" y="0" width="1600" height="870" />
     </state>
-    <state x="507" y="261" key="com.intellij.ide.util.TipDialog/0.0.1600.870@0.0.1600.870" timestamp="1585071424060" />
+    <state x="507" y="261" key="com.intellij.ide.util.TipDialog/0.0.1600.870@0.0.1600.870" timestamp="1585253646235" />
     <state x="377" y="99" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1585073275921">
       <screen x="0" y="0" width="1600" height="870" />
     </state>
