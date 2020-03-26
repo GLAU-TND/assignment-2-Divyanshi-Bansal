@@ -3,6 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="1c61601a-1e07-43ef-8b48-6c7d808b99f6" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/problem1/main/MyMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/problem1/main/MyMain.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/problem3/main/MyMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/problem3/main/MyMain.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -79,7 +81,7 @@
       <workItem from="1585156780193" duration="3302000" />
       <workItem from="1585201338605" duration="2079000" />
       <workItem from="1585219036793" duration="1205000" />
-      <workItem from="1585252598638" duration="605000" />
+      <workItem from="1585252598638" duration="871000" />
     </task>
     <task id="LOCAL-00001" summary="init commit">
       <created>1585061129209</created>
@@ -151,7 +153,14 @@
       <option name="project" value="LOCAL" />
       <updated>1585203183955</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="completing main class of prob3">
+      <created>1585253713737</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1585253713737</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -175,10 +184,10 @@
       <screen x="0" y="0" width="1600" height="870" />
     </state>
     <state x="888" y="124" key="#com.intellij.ide.util.MemberChooser/0.0.1600.870@0.0.1600.870" timestamp="1585073337289" />
-    <state x="349" y="29" key="CommitChangelistDialog2" timestamp="1585203182500">
+    <state x="349" y="29" key="CommitChangelistDialog2" timestamp="1585253711879">
       <screen x="0" y="0" width="1600" height="870" />
     </state>
-    <state x="349" y="29" key="CommitChangelistDialog2/0.0.1600.870@0.0.1600.870" timestamp="1585203182500" />
+    <state x="349" y="29" key="CommitChangelistDialog2/0.0.1600.870@0.0.1600.870" timestamp="1585253711879" />
     <state x="154" y="67" key="DiffContextDialog" timestamp="1585202934275">
       <screen x="0" y="0" width="1600" height="870" />
     </state>
@@ -199,10 +208,10 @@
       <screen x="0" y="0" width="1600" height="870" />
     </state>
     <state width="1557" height="2" key="GridCell.Tab.0.right/0.0.1600.870@0.0.1600.870" timestamp="1585203530749" />
-    <state x="392" y="170" key="Vcs.Push.Dialog.v2" timestamp="1585253679212">
+    <state x="392" y="170" key="Vcs.Push.Dialog.v2" timestamp="1585253719541">
       <screen x="0" y="0" width="1600" height="870" />
     </state>
-    <state x="392" y="170" key="Vcs.Push.Dialog.v2/0.0.1600.870@0.0.1600.870" timestamp="1585253679212" />
+    <state x="392" y="170" key="Vcs.Push.Dialog.v2/0.0.1600.870@0.0.1600.870" timestamp="1585253719541" />
     <state x="507" y="261" key="com.intellij.ide.util.TipDialog" timestamp="1585253646235">
       <screen x="0" y="0" width="1600" height="870" />
     </state>
