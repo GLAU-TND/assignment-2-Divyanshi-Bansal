@@ -77,6 +77,17 @@ public class MyPriorityQueue {
         linkedList.displayNode ();
     }
 
+    public void peak(LinkedList linkedList){
+        System.out.println ("enter rollno for searching..");
+        int rollno = scanner.nextInt ();
+        if(linkedList.searchNode (rollno ) == "found"){
+            System.out.println ("hurry!! your student is in class of rollno is..");
+            System.out.println (rollno);
+        }
+        else{
+            System.out.println ("sorry!! not matched..");
+        }
+    }
 
 
 
