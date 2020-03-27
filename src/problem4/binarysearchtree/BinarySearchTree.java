@@ -11,6 +11,14 @@ public class BinarySearchTree {
         this.myQueue = queue;
     }
 
+    public TreeNode getRoot() {
+        return root;
+    }
+
+    public void setRoot(TreeNode root) {
+        this.root = root;
+    }
+
     private TreeNode root;
 
     public void insert(int data){
