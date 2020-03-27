@@ -38,4 +38,15 @@ public class BinarySearchTree {
             }
         }
     }
+
+    public void preorder(TreeNode temp){
+        if(temp == null){
+            return;
+        }
+        else{
+            myQueue.enqueue ( temp.getData () );
+            preorder ( temp.getLeft () );
+            preorder ( temp.getRight () );
+        }
+    }
 }
