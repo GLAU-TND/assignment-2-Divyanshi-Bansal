@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1c61601a-1e07-43ef-8b48-6c7d808b99f6" name="Default Changelist" comment="make TreeNode.java">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/problem3/LinkedList/LinkedList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/problem3/LinkedList/LinkedList.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/problem4/binarysearchtree/BinarySearchTree.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/problem4/binarysearchtree/BinarySearchTree.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -97,7 +95,7 @@
       <workItem from="1585219036793" duration="1205000" />
       <workItem from="1585252598638" duration="1581000" />
       <workItem from="1585295146473" duration="1745000" />
-      <workItem from="1585327038686" duration="4395000" />
+      <workItem from="1585327038686" duration="4646000" />
     </task>
     <task id="LOCAL-00001" summary="init commit">
       <created>1585061129209</created>
@@ -288,7 +286,21 @@
       <option name="project" value="LOCAL" />
       <updated>1585331298246</updated>
     </task>
-    <option name="localTasksCounter" value="28" />
+    <task id="LOCAL-00028" summary="make insert method in BinarySearchTree.java">
+      <created>1585331554380</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1585331554380</updated>
+    </task>
+    <task id="LOCAL-00029" summary="make preorder">
+      <created>1585331687039</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1585331687039</updated>
+    </task>
+    <option name="localTasksCounter" value="30" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -318,17 +330,19 @@
     <MESSAGE value="make peek method for searching in MyQueue.java" />
     <MESSAGE value="init" />
     <MESSAGE value="make TreeNode.java" />
-    <option name="LAST_COMMIT_MESSAGE" value="make TreeNode.java" />
+    <MESSAGE value="make insert method in BinarySearchTree.java" />
+    <MESSAGE value="make preorder" />
+    <option name="LAST_COMMIT_MESSAGE" value="make preorder" />
   </component>
   <component name="WindowStateProjectService">
     <state x="888" y="124" key="#com.intellij.ide.util.MemberChooser" timestamp="1585331253344">
       <screen x="0" y="0" width="1600" height="870" />
     </state>
     <state x="888" y="124" key="#com.intellij.ide.util.MemberChooser/0.0.1600.870@0.0.1600.870" timestamp="1585331253344" />
-    <state x="288" y="12" key="CommitChangelistDialog2" timestamp="1585331552979">
+    <state x="288" y="12" key="CommitChangelistDialog2" timestamp="1585331685739">
       <screen x="0" y="0" width="1600" height="870" />
     </state>
-    <state x="288" y="12" key="CommitChangelistDialog2/0.0.1600.870@0.0.1600.870" timestamp="1585331552979" />
+    <state x="288" y="12" key="CommitChangelistDialog2/0.0.1600.870@0.0.1600.870" timestamp="1585331685739" />
     <state x="154" y="67" key="DiffContextDialog" timestamp="1585202934275">
       <screen x="0" y="0" width="1600" height="870" />
     </state>

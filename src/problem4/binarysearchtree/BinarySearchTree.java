@@ -49,4 +49,15 @@ public class BinarySearchTree {
             preorder ( temp.getRight () );
         }
     }
+
+    public void inorder(TreeNode temp){
+        if(temp == null){
+            return;
+        }
+        else{
+            inorder(temp.getLeft ());
+            System.out.println (temp.getData ());
+            inorder ( temp.getRight () );
+        }
+    }
 }
