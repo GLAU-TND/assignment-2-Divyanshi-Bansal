@@ -24,4 +24,11 @@ public class MyQueue {
     public void display(){
         linkedList.display ();
     }
+
+    public int peek(int data){
+        if(linkedList.search ( data ) == null){
+            return -1;
+        }
+        return linkedList.search ( data ).getData ();
+    }
 }
