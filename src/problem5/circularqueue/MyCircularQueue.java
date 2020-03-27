@@ -95,4 +95,10 @@ public class MyCircularQueue {
         }
     }
 
+    public void display(){
+        for (int i = 0; i < size; i++) {
+            System.out.println (circularQueue[(i+front)%maxsize]);
+        }
+    }
+
 }
