@@ -82,4 +82,17 @@ public class MyCircularQueue {
         }
     }
 
+    public Student dequeue(){
+        Student response = null;
+        if(!isEmpty ()){
+            size--;
+            response = circularQueue[front];
+            front = (front+1)%maxsize;
+            return response;
+        }
+        else{
+            return response;
+        }
+    }
+
 }
