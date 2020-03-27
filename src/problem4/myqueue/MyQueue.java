@@ -15,4 +15,13 @@ public class MyQueue {
     public void enqueue(int data){
         linkedList.addLast ( data );
     }
+
+    public void dequeue(){
+        linkedList.deletefirst ();
+    }
+
+
+    public void display(){
+        linkedList.display ();
+    }
 }
