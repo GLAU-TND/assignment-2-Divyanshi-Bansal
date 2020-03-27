@@ -24,27 +24,7 @@ public class LinkedList {
         }
     }
 
-    public void addLast(Student element){
-        Node node = new Node ( element);
-        if(first==null){
-            first=last=node;
-        }
-        else{
-            last.next = node;
-            last = node;
-        }
-    }
 
-    public void addfirst(Student element){
-        Node node = new Node ( element );
-        if(first == null){
-            first = last = node;
-        }
-        else{
-            node.next = first;
-            first = node;
-        }
-    }
 
     public int indexOf(String studentName){
         Node current = first;
@@ -111,16 +91,7 @@ public class LinkedList {
 
     }
 
-    private Node previousNode(Node node){
-        Node current= first;
-        while(current.next!=null){
-            if(current.next==node){
-                return current;
-            }
-            current=current.next;
-        }
-        return null;
-    }
+
 
     public Student  lastNode(){
         return last.data;
@@ -154,24 +125,7 @@ public class LinkedList {
         return  first;
     }
 
-    public  Node removeDuplicates() {
 
-        Node current = first;
-        Node tempo = null;
-        //Node temp = null;
-        while(current != null){
-            Node temp = current.next;
-            //System.out.println (temp.data);
-            if(current.data == temp.data){
-                tempo = previousNode( current );
-                //System.out.println (tempo.data);
-                tempo = current.next;
-                current = null;
-            }
-            current = current.next;
-        }
-        return first;
-    }
 
     public String searchNode(int value){
         //Node node = new Node ( value );

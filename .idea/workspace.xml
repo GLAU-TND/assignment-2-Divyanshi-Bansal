@@ -3,8 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="1c61601a-1e07-43ef-8b48-6c7d808b99f6" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/problem1/main/MyMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/problem1/main/MyMain.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/problem3/main/MyMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/problem3/main/MyMain.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/problem3/myqueue/MyPriorityQueue.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/problem3/myqueue/MyPriorityQueue.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,7 +33,20 @@
     <property name="aspect.path.notification.shown" value="true" />
     <property name="settings.editor.selected.configurable" value="vcs.Git" />
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.MyMain (1)">
+    <configuration name="MyMain (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="problem3.main.MyMain" />
+      <module name="assignment-2-Divyanshi-Bansal" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="problem3.main.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="MyMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="problem1.main.MyMain" />
       <module name="assignment-2-Divyanshi-Bansal" />
@@ -50,6 +62,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.MyMain (1)" />
         <item itemvalue="Application.MyMain" />
       </list>
     </recent_temporary>
@@ -81,7 +94,8 @@
       <workItem from="1585156780193" duration="3302000" />
       <workItem from="1585201338605" duration="2079000" />
       <workItem from="1585219036793" duration="1205000" />
-      <workItem from="1585252598638" duration="871000" />
+      <workItem from="1585252598638" duration="1581000" />
+      <workItem from="1585295146473" duration="653000" />
     </task>
     <task id="LOCAL-00001" summary="init commit">
       <created>1585061129209</created>
@@ -160,7 +174,21 @@
       <option name="project" value="LOCAL" />
       <updated>1585253713737</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="completing main class of prob3">
+      <created>1585253931612</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1585253931612</updated>
+    </task>
+    <task id="LOCAL-00013" summary="initial commit">
+      <created>1585254024365</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1585254024365</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -177,45 +205,46 @@
     <MESSAGE value="make getter and setter for all variables in Student.java" />
     <MESSAGE value="make main class of prob3" />
     <MESSAGE value="completing main class of prob3" />
-    <option name="LAST_COMMIT_MESSAGE" value="completing main class of prob3" />
+    <MESSAGE value="initial commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="initial commit" />
   </component>
   <component name="WindowStateProjectService">
     <state x="888" y="124" key="#com.intellij.ide.util.MemberChooser" timestamp="1585073337289">
       <screen x="0" y="0" width="1600" height="870" />
     </state>
     <state x="888" y="124" key="#com.intellij.ide.util.MemberChooser/0.0.1600.870@0.0.1600.870" timestamp="1585073337289" />
-    <state x="349" y="29" key="CommitChangelistDialog2" timestamp="1585253930306">
+    <state x="349" y="29" key="CommitChangelistDialog2" timestamp="1585254023071">
       <screen x="0" y="0" width="1600" height="870" />
     </state>
-    <state x="349" y="29" key="CommitChangelistDialog2/0.0.1600.870@0.0.1600.870" timestamp="1585253930306" />
+    <state x="349" y="29" key="CommitChangelistDialog2/0.0.1600.870@0.0.1600.870" timestamp="1585254023071" />
     <state x="154" y="67" key="DiffContextDialog" timestamp="1585202934275">
       <screen x="0" y="0" width="1600" height="870" />
     </state>
     <state x="154" y="67" key="DiffContextDialog/0.0.1600.870@0.0.1600.870" timestamp="1585202934275" />
-    <state width="1557" height="2" key="GridCell.Tab.0.bottom" timestamp="1585203530749">
+    <state width="1557" height="509" key="GridCell.Tab.0.bottom" timestamp="1585295439592">
       <screen x="0" y="0" width="1600" height="870" />
     </state>
-    <state width="1557" height="2" key="GridCell.Tab.0.bottom/0.0.1600.870@0.0.1600.870" timestamp="1585203530749" />
-    <state width="1557" height="2" key="GridCell.Tab.0.center" timestamp="1585203530749">
+    <state width="1557" height="509" key="GridCell.Tab.0.bottom/0.0.1600.870@0.0.1600.870" timestamp="1585295439592" />
+    <state width="1557" height="509" key="GridCell.Tab.0.center" timestamp="1585295439591">
       <screen x="0" y="0" width="1600" height="870" />
     </state>
-    <state width="1557" height="2" key="GridCell.Tab.0.center/0.0.1600.870@0.0.1600.870" timestamp="1585203530749" />
-    <state width="1557" height="2" key="GridCell.Tab.0.left" timestamp="1585203530749">
+    <state width="1557" height="509" key="GridCell.Tab.0.center/0.0.1600.870@0.0.1600.870" timestamp="1585295439591" />
+    <state width="1557" height="509" key="GridCell.Tab.0.left" timestamp="1585295439591">
       <screen x="0" y="0" width="1600" height="870" />
     </state>
-    <state width="1557" height="2" key="GridCell.Tab.0.left/0.0.1600.870@0.0.1600.870" timestamp="1585203530749" />
-    <state width="1557" height="2" key="GridCell.Tab.0.right" timestamp="1585203530749">
+    <state width="1557" height="509" key="GridCell.Tab.0.left/0.0.1600.870@0.0.1600.870" timestamp="1585295439591" />
+    <state width="1557" height="509" key="GridCell.Tab.0.right" timestamp="1585295439592">
       <screen x="0" y="0" width="1600" height="870" />
     </state>
-    <state width="1557" height="2" key="GridCell.Tab.0.right/0.0.1600.870@0.0.1600.870" timestamp="1585203530749" />
-    <state x="392" y="170" key="Vcs.Push.Dialog.v2" timestamp="1585253935371">
+    <state width="1557" height="509" key="GridCell.Tab.0.right/0.0.1600.870@0.0.1600.870" timestamp="1585295439592" />
+    <state x="392" y="170" key="Vcs.Push.Dialog.v2" timestamp="1585296001658">
       <screen x="0" y="0" width="1600" height="870" />
     </state>
-    <state x="392" y="170" key="Vcs.Push.Dialog.v2/0.0.1600.870@0.0.1600.870" timestamp="1585253935371" />
-    <state x="507" y="261" key="com.intellij.ide.util.TipDialog" timestamp="1585253646235">
+    <state x="392" y="170" key="Vcs.Push.Dialog.v2/0.0.1600.870@0.0.1600.870" timestamp="1585296001658" />
+    <state x="507" y="261" key="com.intellij.ide.util.TipDialog" timestamp="1585295147222">
       <screen x="0" y="0" width="1600" height="870" />
     </state>
-    <state x="507" y="261" key="com.intellij.ide.util.TipDialog/0.0.1600.870@0.0.1600.870" timestamp="1585253646235" />
+    <state x="507" y="261" key="com.intellij.ide.util.TipDialog/0.0.1600.870@0.0.1600.870" timestamp="1585295147222" />
     <state x="377" y="99" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1585073275921">
       <screen x="0" y="0" width="1600" height="870" />
     </state>
