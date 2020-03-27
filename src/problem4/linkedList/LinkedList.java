@@ -15,4 +15,10 @@ public class LinkedList {
             last = node;
         }
     }
+
+    public void deletefirst(){
+        var second = first.getNext ();
+        first.setNext ( null );
+        first = second;
+    }
 }
