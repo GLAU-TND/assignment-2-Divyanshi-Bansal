@@ -23,4 +23,63 @@ public class MyCircularQueue {
         this.size =0;
         circularQueue = new Student[maxsize];
     }
+
+    public int getSize() {
+        return size;
+    }
+
+    public void setSize(int size) {
+        this.size = size;
+    }
+
+    public int getMaxsize() {
+        return maxsize;
+    }
+
+    public void setMaxsize(int maxsize) {
+        this.maxsize = maxsize;
+    }
+
+    public int getFront() {
+        return front;
+    }
+
+    public void setFront(int front) {
+        this.front = front;
+    }
+
+    public int getRear() {
+        return rear;
+    }
+
+    public void setRear(int rear) {
+        this.rear = rear;
+    }
+
+    public Student[] getCircularQueue() {
+        return circularQueue;
+    }
+
+    public void setCircularQueue(Student[] circularQueue) {
+        this.circularQueue = circularQueue;
+    }
+
+    public boolean isFull(){
+        return size == maxsize;
+    }
+    public boolean isEmpty(){
+        return size ==0;
+    }
+
+    public void enqueue(Student element){
+        if(!isFull()){
+            circularQueue[rear] = element;
+            rear = (rear+1)%maxsize;
+            size++;
+        }
+        else{
+            System.out.println ("CircularQueue is already full..");
+        }
+    }
+
 }
