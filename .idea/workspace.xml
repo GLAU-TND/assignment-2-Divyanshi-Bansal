@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1c61601a-1e07-43ef-8b48-6c7d808b99f6" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/problem2/main/MyMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/problem2/main/MyMain.java" afterDir="false" />
-    </list>
+    <list default="true" id="1c61601a-1e07-43ef-8b48-6c7d808b99f6" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -33,7 +30,7 @@
     <property name="aspect.path.notification.shown" value="true" />
     <property name="settings.editor.selected.configurable" value="vcs.Git" />
   </component>
-  <component name="RunManager" selected="Application.MyMain (3)">
+  <component name="RunManager" selected="Application.MyMain (4)">
     <configuration name="MyMain (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="problem3.main.MyMain" />
       <module name="assignment-2-Divyanshi-Bansal" />
@@ -73,6 +70,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="MyMain (4)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="problem2.main.MyMain" />
+      <module name="assignment-2-Divyanshi-Bansal" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="problem2.main.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="MyMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="problem1.main.MyMain" />
       <module name="assignment-2-Divyanshi-Bansal" />
@@ -88,6 +98,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.MyMain (4)" />
         <item itemvalue="Application.MyMain (3)" />
         <item itemvalue="Application.MyMain (2)" />
         <item itemvalue="Application.MyMain (1)" />
@@ -125,14 +136,7 @@
       <workItem from="1585252598638" duration="1581000" />
       <workItem from="1585295146473" duration="1745000" />
       <workItem from="1585327038686" duration="8132000" />
-      <workItem from="1585397801903" duration="1777000" />
-    </task>
-    <task id="LOCAL-00003" summary="make enqueue method in priority queue MyPriorityQueue.java">
-      <created>1585202905624</created>
-      <option name="number" value="00003" />
-      <option name="presentableId" value="LOCAL-00003" />
-      <option name="project" value="LOCAL" />
-      <updated>1585202905625</updated>
+      <workItem from="1585397801903" duration="2039000" />
     </task>
     <task id="LOCAL-00004" summary="make dequeue method in priority queue MyPriorityQueue.java">
       <created>1585202953294</created>
@@ -470,14 +474,20 @@
       <option name="project" value="LOCAL" />
       <updated>1585399286982</updated>
     </task>
-    <option name="localTasksCounter" value="52" />
+    <task id="LOCAL-00052" summary="completed MyMain.java of prob2">
+      <created>1585399841379</created>
+      <option name="number" value="00052" />
+      <option name="presentableId" value="LOCAL-00052" />
+      <option name="project" value="LOCAL" />
+      <updated>1585399841379</updated>
+    </task>
+    <option name="localTasksCounter" value="53" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="make getter and setter in LinkedList.java" />
     <MESSAGE value="make peek method in MyQueue.java" />
     <MESSAGE value="make dequeue and display method in MyQueue.java" />
     <MESSAGE value="make peek method for searching in MyQueue.java" />
@@ -502,17 +512,18 @@
     <MESSAGE value="create postOrder method" />
     <MESSAGE value="create inOrder method" />
     <MESSAGE value="create traverse method and completed BinarySearchTree.java" />
-    <option name="LAST_COMMIT_MESSAGE" value="create traverse method and completed BinarySearchTree.java" />
+    <MESSAGE value="completed MyMain.java of prob2" />
+    <option name="LAST_COMMIT_MESSAGE" value="completed MyMain.java of prob2" />
   </component>
   <component name="WindowStateProjectService">
     <state x="888" y="124" key="#com.intellij.ide.util.MemberChooser" timestamp="1585399033107">
       <screen x="0" y="0" width="1600" height="870" />
     </state>
     <state x="888" y="124" key="#com.intellij.ide.util.MemberChooser/0.0.1600.870@0.0.1600.870" timestamp="1585399033107" />
-    <state x="288" y="12" key="CommitChangelistDialog2" timestamp="1585399285724">
+    <state x="288" y="12" key="CommitChangelistDialog2" timestamp="1585399840244">
       <screen x="0" y="0" width="1600" height="870" />
     </state>
-    <state x="288" y="12" key="CommitChangelistDialog2/0.0.1600.870@0.0.1600.870" timestamp="1585399285724" />
+    <state x="288" y="12" key="CommitChangelistDialog2/0.0.1600.870@0.0.1600.870" timestamp="1585399840244" />
     <state x="154" y="67" key="DiffContextDialog" timestamp="1585202934275">
       <screen x="0" y="0" width="1600" height="870" />
     </state>
@@ -533,10 +544,10 @@
       <screen x="0" y="0" width="1600" height="870" />
     </state>
     <state width="1557" height="2" key="GridCell.Tab.0.right/0.0.1600.870@0.0.1600.870" timestamp="1585345206713" />
-    <state x="392" y="170" key="Vcs.Push.Dialog.v2" timestamp="1585333737935">
+    <state x="392" y="170" key="Vcs.Push.Dialog.v2" timestamp="1585399917587">
       <screen x="0" y="0" width="1600" height="870" />
     </state>
-    <state x="392" y="170" key="Vcs.Push.Dialog.v2/0.0.1600.870@0.0.1600.870" timestamp="1585333737935" />
+    <state x="392" y="170" key="Vcs.Push.Dialog.v2/0.0.1600.870@0.0.1600.870" timestamp="1585399917587" />
     <state x="507" y="261" key="com.intellij.ide.util.TipDialog" timestamp="1585397869901">
       <screen x="0" y="0" width="1600" height="870" />
     </state>
