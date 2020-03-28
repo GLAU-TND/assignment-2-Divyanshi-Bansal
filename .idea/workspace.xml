@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1c61601a-1e07-43ef-8b48-6c7d808b99f6" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/problem2/main/BinarySearchTree.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/problem2/main/BinarySearchTree.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -125,7 +124,7 @@
       <workItem from="1585252598638" duration="1581000" />
       <workItem from="1585295146473" duration="1745000" />
       <workItem from="1585327038686" duration="8132000" />
-      <workItem from="1585397801903" duration="476000" />
+      <workItem from="1585397801903" duration="737000" />
     </task>
     <task id="LOCAL-00001" summary="init commit">
       <created>1585061129209</created>
@@ -442,14 +441,20 @@
       <option name="project" value="LOCAL" />
       <updated>1585398259096</updated>
     </task>
-    <option name="localTasksCounter" value="46" />
+    <task id="LOCAL-00046" summary="create insert method">
+      <created>1585398529315</created>
+      <option name="number" value="00046" />
+      <option name="presentableId" value="LOCAL-00046" />
+      <option name="project" value="LOCAL" />
+      <updated>1585398529315</updated>
+    </task>
+    <option name="localTasksCounter" value="47" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="completed" />
     <MESSAGE value="make constructor and getter setter" />
     <MESSAGE value="make addlast method in LinkedList.java" />
     <MESSAGE value="make deletefirst method in LinkedList.java" />
@@ -474,17 +479,18 @@
     <MESSAGE value="completed MyMain of prob 5" />
     <MESSAGE value="init" />
     <MESSAGE value="create constructor" />
-    <option name="LAST_COMMIT_MESSAGE" value="create constructor" />
+    <MESSAGE value="create insert method" />
+    <option name="LAST_COMMIT_MESSAGE" value="create insert method" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="888" y="124" key="#com.intellij.ide.util.MemberChooser" timestamp="1585332720581">
+    <state x="888" y="124" key="#com.intellij.ide.util.MemberChooser" timestamp="1585398578991">
       <screen x="0" y="0" width="1600" height="870" />
     </state>
-    <state x="888" y="124" key="#com.intellij.ide.util.MemberChooser/0.0.1600.870@0.0.1600.870" timestamp="1585332720581" />
-    <state x="288" y="12" key="CommitChangelistDialog2" timestamp="1585398257899">
+    <state x="888" y="124" key="#com.intellij.ide.util.MemberChooser/0.0.1600.870@0.0.1600.870" timestamp="1585398578991" />
+    <state x="288" y="12" key="CommitChangelistDialog2" timestamp="1585398528157">
       <screen x="0" y="0" width="1600" height="870" />
     </state>
-    <state x="288" y="12" key="CommitChangelistDialog2/0.0.1600.870@0.0.1600.870" timestamp="1585398257899" />
+    <state x="288" y="12" key="CommitChangelistDialog2/0.0.1600.870@0.0.1600.870" timestamp="1585398528157" />
     <state x="154" y="67" key="DiffContextDialog" timestamp="1585202934275">
       <screen x="0" y="0" width="1600" height="870" />
     </state>
