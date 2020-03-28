@@ -92,7 +92,6 @@ public class LinkedList {
     }
 
 
-
     public Student  lastNode(){
         return last.data;
     }
