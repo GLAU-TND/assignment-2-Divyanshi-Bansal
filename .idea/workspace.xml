@@ -139,21 +139,7 @@
       <workItem from="1585252598638" duration="1581000" />
       <workItem from="1585295146473" duration="1745000" />
       <workItem from="1585327038686" duration="8132000" />
-      <workItem from="1585397801903" duration="2787000" />
-    </task>
-    <task id="LOCAL-00006" summary="make peak method in priority queue MyPriorityQueue.java">
-      <created>1585203004579</created>
-      <option name="number" value="00006" />
-      <option name="presentableId" value="LOCAL-00006" />
-      <option name="project" value="LOCAL" />
-      <updated>1585203004579</updated>
-    </task>
-    <task id="LOCAL-00007" summary="make Student.java &#10;and make constructor">
-      <created>1585203079818</created>
-      <option name="number" value="00007" />
-      <option name="presentableId" value="LOCAL-00007" />
-      <option name="project" value="LOCAL" />
-      <updated>1585203079818</updated>
+      <workItem from="1585397801903" duration="3027000" />
     </task>
     <task id="LOCAL-00008" summary="make getter and setter for all variables in Student.java">
       <created>1585203118650</created>
@@ -484,7 +470,21 @@
       <option name="project" value="LOCAL" />
       <updated>1585400383996</updated>
     </task>
-    <option name="localTasksCounter" value="55" />
+    <task id="LOCAL-00055" summary="create preOrder method">
+      <created>1585400639789</created>
+      <option name="number" value="00055" />
+      <option name="presentableId" value="LOCAL-00055" />
+      <option name="project" value="LOCAL" />
+      <updated>1585400639789</updated>
+    </task>
+    <task id="LOCAL-00056" summary="create inOrder method">
+      <created>1585400761789</created>
+      <option name="number" value="00056" />
+      <option name="presentableId" value="LOCAL-00056" />
+      <option name="project" value="LOCAL" />
+      <updated>1585400761789</updated>
+    </task>
+    <option name="localTasksCounter" value="57" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -509,24 +509,24 @@
     <MESSAGE value="completed MyMain of prob 5" />
     <MESSAGE value="create constructor" />
     <MESSAGE value="create getter and setter" />
-    <MESSAGE value="create preOrder method" />
     <MESSAGE value="create postOrder method" />
-    <MESSAGE value="create inOrder method" />
     <MESSAGE value="create traverse method and completed BinarySearchTree.java" />
     <MESSAGE value="completed MyMain.java of prob2" />
     <MESSAGE value="init" />
     <MESSAGE value="create insert method" />
-    <option name="LAST_COMMIT_MESSAGE" value="create insert method" />
+    <MESSAGE value="create preOrder method" />
+    <MESSAGE value="create inOrder method" />
+    <option name="LAST_COMMIT_MESSAGE" value="create inOrder method" />
   </component>
   <component name="WindowStateProjectService">
     <state x="888" y="124" key="#com.intellij.ide.util.MemberChooser" timestamp="1585400437179">
       <screen x="0" y="0" width="1600" height="870" />
     </state>
     <state x="888" y="124" key="#com.intellij.ide.util.MemberChooser/0.0.1600.870@0.0.1600.870" timestamp="1585400437179" />
-    <state x="258" y="40" width="906" height="789" key="CommitChangelistDialog2" timestamp="1585400638592">
+    <state x="258" y="40" width="906" height="789" key="CommitChangelistDialog2" timestamp="1585400760676">
       <screen x="0" y="0" width="1600" height="870" />
     </state>
-    <state x="258" y="40" width="906" height="789" key="CommitChangelistDialog2/0.0.1600.870@0.0.1600.870" timestamp="1585400638592" />
+    <state x="258" y="40" width="906" height="789" key="CommitChangelistDialog2/0.0.1600.870@0.0.1600.870" timestamp="1585400760676" />
     <state x="154" y="67" key="DiffContextDialog" timestamp="1585202934275">
       <screen x="0" y="0" width="1600" height="870" />
     </state>
