@@ -124,7 +124,7 @@
       <workItem from="1585252598638" duration="1581000" />
       <workItem from="1585295146473" duration="1745000" />
       <workItem from="1585327038686" duration="8132000" />
-      <workItem from="1585397801903" duration="737000" />
+      <workItem from="1585397801903" duration="1007000" />
     </task>
     <task id="LOCAL-00001" summary="init commit">
       <created>1585061129209</created>
@@ -448,15 +448,27 @@
       <option name="project" value="LOCAL" />
       <updated>1585398529315</updated>
     </task>
-    <option name="localTasksCounter" value="47" />
+    <task id="LOCAL-00047" summary="create getter and setter">
+      <created>1585398625955</created>
+      <option name="number" value="00047" />
+      <option name="presentableId" value="LOCAL-00047" />
+      <option name="project" value="LOCAL" />
+      <updated>1585398625955</updated>
+    </task>
+    <task id="LOCAL-00048" summary="create preOrder method">
+      <created>1585398788669</created>
+      <option name="number" value="00048" />
+      <option name="presentableId" value="LOCAL-00048" />
+      <option name="project" value="LOCAL" />
+      <updated>1585398788669</updated>
+    </task>
+    <option name="localTasksCounter" value="49" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="make constructor and getter setter" />
-    <MESSAGE value="make addlast method in LinkedList.java" />
     <MESSAGE value="make deletefirst method in LinkedList.java" />
     <MESSAGE value="make display method in LinkedList.java" />
     <MESSAGE value="make search method in LinkedList.java" />
@@ -480,17 +492,19 @@
     <MESSAGE value="init" />
     <MESSAGE value="create constructor" />
     <MESSAGE value="create insert method" />
-    <option name="LAST_COMMIT_MESSAGE" value="create insert method" />
+    <MESSAGE value="create getter and setter" />
+    <MESSAGE value="create preOrder method" />
+    <option name="LAST_COMMIT_MESSAGE" value="create preOrder method" />
   </component>
   <component name="WindowStateProjectService">
     <state x="888" y="124" key="#com.intellij.ide.util.MemberChooser" timestamp="1585398578991">
       <screen x="0" y="0" width="1600" height="870" />
     </state>
     <state x="888" y="124" key="#com.intellij.ide.util.MemberChooser/0.0.1600.870@0.0.1600.870" timestamp="1585398578991" />
-    <state x="288" y="12" key="CommitChangelistDialog2" timestamp="1585398624653">
+    <state x="288" y="12" key="CommitChangelistDialog2" timestamp="1585398787485">
       <screen x="0" y="0" width="1600" height="870" />
     </state>
-    <state x="288" y="12" key="CommitChangelistDialog2/0.0.1600.870@0.0.1600.870" timestamp="1585398624653" />
+    <state x="288" y="12" key="CommitChangelistDialog2/0.0.1600.870@0.0.1600.870" timestamp="1585398787485" />
     <state x="154" y="67" key="DiffContextDialog" timestamp="1585202934275">
       <screen x="0" y="0" width="1600" height="870" />
     </state>
