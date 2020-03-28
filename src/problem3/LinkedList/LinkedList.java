@@ -102,29 +102,6 @@ public class LinkedList {
         return false;
     }
 
-    public Node insertNodeAtPosition( Student value, int position) {
-        Node node = new Node ( value );
-        int i = 0;
-        Node current = first;
-        Node previous = first;
-        while (i < position) {
-            previous = current;//13
-            current = current.next;//7
-
-            i++;
-        }
-        previous.next = node;
-        node.next = current;
-        while (current != null) {
-            //System.out.println (current.data +"*");
-
-
-            current = current.next;
-        }
-        return  first;
-    }
-
-
 
     public String searchNode(int value){
         //Node node = new Node ( value );
