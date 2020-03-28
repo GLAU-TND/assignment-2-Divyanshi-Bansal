@@ -38,4 +38,31 @@ public class MyBinarySearchTree {
             }
         }
     }
+
+    public TreeNode getRoot() {
+        return root;
+    }
+
+    public void setRoot(TreeNode root) {
+        this.root = root;
+    }
+
+    public int getCountRight() {
+        return countRight;
+    }
+
+    public void setCountRight(int countRight) {
+        this.countRight = countRight;
+    }
+
+    public  void preOrder(TreeNode temp){
+        if(temp == null){
+            return;
+        }
+        else{
+            System.out.println (temp.getData ());
+            preOrder ( temp.getLeft () );
+            preOrder ( temp.getRight () );
+        }
+    }
 }
