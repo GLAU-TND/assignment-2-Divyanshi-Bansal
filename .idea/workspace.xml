@@ -3,7 +3,9 @@
   <component name="ChangeListManager">
     <list default="true" id="1c61601a-1e07-43ef-8b48-6c7d808b99f6" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/problem1/main/MyMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/problem1/main/MyMain.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/assignment-2-Divyanshi-Bansal/problem1/main/MyMain.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/assignment-2-Divyanshi-Bansal/problem1/main/MyMain.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/assignment-2-Divyanshi-Bansal/problem1/mybst/MyBinarySearchTree.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/assignment-2-Divyanshi-Bansal/problem1/mybst/MyBinarySearchTree.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/problem3/myqueue/MyPriorityQueue.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/problem3/myqueue/MyPriorityQueue.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -33,7 +35,7 @@
     <property name="aspect.path.notification.shown" value="true" />
     <property name="settings.editor.selected.configurable" value="vcs.Git" />
   </component>
-  <component name="RunManager" selected="Application.MyMain (4)">
+  <component name="RunManager" selected="Application.MyMain (1)">
     <configuration name="MyMain (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="problem3.main.MyMain" />
       <module name="assignment-2-Divyanshi-Bansal" />
@@ -86,8 +88,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MyMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="problem1.main.MyMain" />
+    <configuration name="Mymain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="problem1.main.Mymain" />
       <module name="assignment-2-Divyanshi-Bansal" />
       <extension name="coverage">
         <pattern>
@@ -101,11 +103,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.MyMain (1)" />
+        <item itemvalue="Application.Mymain" />
         <item itemvalue="Application.MyMain (4)" />
         <item itemvalue="Application.MyMain (3)" />
         <item itemvalue="Application.MyMain (2)" />
-        <item itemvalue="Application.MyMain (1)" />
-        <item itemvalue="Application.MyMain" />
       </list>
     </recent_temporary>
   </component>
@@ -139,14 +141,7 @@
       <workItem from="1585252598638" duration="1581000" />
       <workItem from="1585295146473" duration="1745000" />
       <workItem from="1585327038686" duration="8132000" />
-      <workItem from="1585397801903" duration="3272000" />
-    </task>
-    <task id="LOCAL-00009" summary="make main class of prob3">
-      <created>1585203164043</created>
-      <option name="number" value="00009" />
-      <option name="presentableId" value="LOCAL-00009" />
-      <option name="project" value="LOCAL" />
-      <updated>1585203164043</updated>
+      <workItem from="1585397801903" duration="3677000" />
     </task>
     <task id="LOCAL-00010" summary="completing main class of prob3">
       <created>1585203183955</created>
@@ -484,14 +479,20 @@
       <option name="project" value="LOCAL" />
       <updated>1585400861185</updated>
     </task>
-    <option name="localTasksCounter" value="58" />
+    <task id="LOCAL-00058" summary="completed MyMain.java of prob1">
+      <created>1585401132849</created>
+      <option name="number" value="00058" />
+      <option name="presentableId" value="LOCAL-00058" />
+      <option name="project" value="LOCAL" />
+      <updated>1585401132849</updated>
+    </task>
+    <option name="localTasksCounter" value="59" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="make dequeue and display method in MyQueue.java" />
     <MESSAGE value="make peek method for searching in MyQueue.java" />
     <MESSAGE value="make TreeNode.java" />
     <MESSAGE value="make insert method in BinarySearchTree.java" />
@@ -516,41 +517,42 @@
     <MESSAGE value="create preOrder method" />
     <MESSAGE value="create inOrder method" />
     <MESSAGE value="create traverse method" />
-    <option name="LAST_COMMIT_MESSAGE" value="create traverse method" />
+    <MESSAGE value="completed MyMain.java of prob1" />
+    <option name="LAST_COMMIT_MESSAGE" value="completed MyMain.java of prob1" />
   </component>
   <component name="WindowStateProjectService">
     <state x="888" y="124" key="#com.intellij.ide.util.MemberChooser" timestamp="1585400437179">
       <screen x="0" y="0" width="1600" height="870" />
     </state>
     <state x="888" y="124" key="#com.intellij.ide.util.MemberChooser/0.0.1600.870@0.0.1600.870" timestamp="1585400437179" />
-    <state x="258" y="40" width="906" height="789" key="CommitChangelistDialog2" timestamp="1585400859998">
+    <state x="258" y="40" width="906" height="789" key="CommitChangelistDialog2" timestamp="1585401131631">
       <screen x="0" y="0" width="1600" height="870" />
     </state>
-    <state x="258" y="40" width="906" height="789" key="CommitChangelistDialog2/0.0.1600.870@0.0.1600.870" timestamp="1585400859998" />
+    <state x="258" y="40" width="906" height="789" key="CommitChangelistDialog2/0.0.1600.870@0.0.1600.870" timestamp="1585401131631" />
     <state x="154" y="67" key="DiffContextDialog" timestamp="1585202934275">
       <screen x="0" y="0" width="1600" height="870" />
     </state>
     <state x="154" y="67" key="DiffContextDialog/0.0.1600.870@0.0.1600.870" timestamp="1585202934275" />
-    <state width="1557" height="2" key="GridCell.Tab.0.bottom" timestamp="1585345206713">
+    <state width="778" height="619" key="GridCell.Tab.0.bottom" timestamp="1585401491996">
       <screen x="0" y="0" width="1600" height="870" />
     </state>
-    <state width="1557" height="2" key="GridCell.Tab.0.bottom/0.0.1600.870@0.0.1600.870" timestamp="1585345206713" />
-    <state width="1557" height="2" key="GridCell.Tab.0.center" timestamp="1585345206713">
+    <state width="778" height="619" key="GridCell.Tab.0.bottom/0.0.1600.870@0.0.1600.870" timestamp="1585401491996" />
+    <state width="778" height="619" key="GridCell.Tab.0.center" timestamp="1585401491995">
       <screen x="0" y="0" width="1600" height="870" />
     </state>
-    <state width="1557" height="2" key="GridCell.Tab.0.center/0.0.1600.870@0.0.1600.870" timestamp="1585345206713" />
-    <state width="1557" height="2" key="GridCell.Tab.0.left" timestamp="1585345206713">
+    <state width="778" height="619" key="GridCell.Tab.0.center/0.0.1600.870@0.0.1600.870" timestamp="1585401491995" />
+    <state width="778" height="619" key="GridCell.Tab.0.left" timestamp="1585401491995">
       <screen x="0" y="0" width="1600" height="870" />
     </state>
-    <state width="1557" height="2" key="GridCell.Tab.0.left/0.0.1600.870@0.0.1600.870" timestamp="1585345206713" />
-    <state width="1557" height="2" key="GridCell.Tab.0.right" timestamp="1585345206713">
+    <state width="778" height="619" key="GridCell.Tab.0.left/0.0.1600.870@0.0.1600.870" timestamp="1585401491995" />
+    <state width="778" height="619" key="GridCell.Tab.0.right" timestamp="1585401491995">
       <screen x="0" y="0" width="1600" height="870" />
     </state>
-    <state width="1557" height="2" key="GridCell.Tab.0.right/0.0.1600.870@0.0.1600.870" timestamp="1585345206713" />
-    <state x="392" y="170" key="Vcs.Push.Dialog.v2" timestamp="1585399917587">
+    <state width="778" height="619" key="GridCell.Tab.0.right/0.0.1600.870@0.0.1600.870" timestamp="1585401491995" />
+    <state x="392" y="170" key="Vcs.Push.Dialog.v2" timestamp="1585401246197">
       <screen x="0" y="0" width="1600" height="870" />
     </state>
-    <state x="392" y="170" key="Vcs.Push.Dialog.v2/0.0.1600.870@0.0.1600.870" timestamp="1585399917587" />
+    <state x="392" y="170" key="Vcs.Push.Dialog.v2/0.0.1600.870@0.0.1600.870" timestamp="1585401246197" />
     <state x="507" y="261" key="com.intellij.ide.util.TipDialog" timestamp="1585397869901">
       <screen x="0" y="0" width="1600" height="870" />
     </state>

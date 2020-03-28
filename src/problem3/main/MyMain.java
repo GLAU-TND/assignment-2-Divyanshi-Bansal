@@ -21,7 +21,6 @@ public class MyMain {
         String choice = "0";
         while(choice != "5"){
             System.out.println ();
-            System.out.println ("Welcome to Divyanshi's class...!!");
             System.out.println ("Press 1 to add a new record.");
             System.out.println ("Press 2 to view all records.");
             System.out.println ("Press 3 to search for a record.");
@@ -40,7 +39,6 @@ public class MyMain {
                 case "4":myPriorityQueue.dequeue (linkedList);
                     break;
                 case "5":
-                    System.out.println ("Thankyou for visiting.. ");
                     choice ="5";
                     break;
                 default:
