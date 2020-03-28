@@ -1,14 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1c61601a-1e07-43ef-8b48-6c7d808b99f6" name="Default Changelist" comment="make TreeNode.java">
+    <list default="true" id="1c61601a-1e07-43ef-8b48-6c7d808b99f6" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/problem2/main/BinarySearchTree.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/assignment-2-Divyanshi-Bansal/problem1/node/TreeNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/assignment-2-Divyanshi-Bansal/problem1/node/TreeNode.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/assignment-2-Divyanshi-Bansal/problem3/LinkedList/LinkedList.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/assignment-2-Divyanshi-Bansal/problem3/LinkedList/LinkedList.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/assignment-2-Divyanshi-Bansal/problem3/myqueue/MyPriorityQueue.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/assignment-2-Divyanshi-Bansal/problem3/myqueue/MyPriorityQueue.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/assignment-2-Divyanshi-Bansal/problem4/main/MyMain.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/assignment-2-Divyanshi-Bansal/problem4/main/MyMain.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/assignment-2-Divyanshi-Bansal/problem4/myqueue/MyQueue.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/assignment-2-Divyanshi-Bansal/problem4/myqueue/MyQueue.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/problem3/LinkedList/LinkedList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/problem3/LinkedList/LinkedList.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -130,6 +125,7 @@
       <workItem from="1585252598638" duration="1581000" />
       <workItem from="1585295146473" duration="1745000" />
       <workItem from="1585327038686" duration="8132000" />
+      <workItem from="1585397801903" duration="235000" />
     </task>
     <task id="LOCAL-00001" summary="init commit">
       <created>1585061129209</created>
@@ -425,7 +421,14 @@
       <option name="project" value="LOCAL" />
       <updated>1585333679845</updated>
     </task>
-    <option name="localTasksCounter" value="43" />
+    <task id="LOCAL-00043" summary="init">
+      <created>1585397907285</created>
+      <option name="number" value="00043" />
+      <option name="presentableId" value="LOCAL-00043" />
+      <option name="project" value="LOCAL" />
+      <updated>1585397907285</updated>
+    </task>
+    <option name="localTasksCounter" value="44" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -455,19 +458,19 @@
     <MESSAGE value="create enqueue method in MyCircularQueue.java" />
     <MESSAGE value="create dequeue method in MyCircularQueue.java" />
     <MESSAGE value="completed MyCircularQueue.java" />
-    <MESSAGE value="init" />
     <MESSAGE value="completed MyMain of prob 5" />
-    <option name="LAST_COMMIT_MESSAGE" value="completed MyMain of prob 5" />
+    <MESSAGE value="init" />
+    <option name="LAST_COMMIT_MESSAGE" value="init" />
   </component>
   <component name="WindowStateProjectService">
     <state x="888" y="124" key="#com.intellij.ide.util.MemberChooser" timestamp="1585332720581">
       <screen x="0" y="0" width="1600" height="870" />
     </state>
     <state x="888" y="124" key="#com.intellij.ide.util.MemberChooser/0.0.1600.870@0.0.1600.870" timestamp="1585332720581" />
-    <state x="288" y="12" key="CommitChangelistDialog2" timestamp="1585335752275">
+    <state x="288" y="12" key="CommitChangelistDialog2" timestamp="1585397904547">
       <screen x="0" y="0" width="1600" height="870" />
     </state>
-    <state x="288" y="12" key="CommitChangelistDialog2/0.0.1600.870@0.0.1600.870" timestamp="1585335752275" />
+    <state x="288" y="12" key="CommitChangelistDialog2/0.0.1600.870@0.0.1600.870" timestamp="1585397904547" />
     <state x="154" y="67" key="DiffContextDialog" timestamp="1585202934275">
       <screen x="0" y="0" width="1600" height="870" />
     </state>
