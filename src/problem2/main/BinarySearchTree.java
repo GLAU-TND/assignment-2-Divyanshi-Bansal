@@ -63,4 +63,15 @@ public class BinarySearchTree {
     public void setPostQueue(MyQueue postQueue) {
         this.postQueue = postQueue;
     }
+
+    public void preOrder(TreeNode temp){
+        if(temp == null){
+            return;
+        }
+        else{
+            preQueue.enqueue ( temp.getData () );
+            preOrder ( temp.getLeft () );
+            preOrder ( temp.getRight () );
+        }
+    }
 }
