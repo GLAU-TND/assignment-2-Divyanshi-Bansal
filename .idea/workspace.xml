@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1c61601a-1e07-43ef-8b48-6c7d808b99f6" name="Default Changelist" comment="" />
+    <list default="true" id="1c61601a-1e07-43ef-8b48-6c7d808b99f6" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/problem1/mybst/MyBinarySearchTree.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/problem1/mybst/MyBinarySearchTree.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -136,14 +139,7 @@
       <workItem from="1585252598638" duration="1581000" />
       <workItem from="1585295146473" duration="1745000" />
       <workItem from="1585327038686" duration="8132000" />
-      <workItem from="1585397801903" duration="2039000" />
-    </task>
-    <task id="LOCAL-00004" summary="make dequeue method in priority queue MyPriorityQueue.java">
-      <created>1585202953294</created>
-      <option name="number" value="00004" />
-      <option name="presentableId" value="LOCAL-00004" />
-      <option name="project" value="LOCAL" />
-      <updated>1585202953294</updated>
+      <workItem from="1585397801903" duration="2543000" />
     </task>
     <task id="LOCAL-00005" summary="make display method in priority queue MyPriorityQueue.java">
       <created>1585202983361</created>
@@ -481,7 +477,14 @@
       <option name="project" value="LOCAL" />
       <updated>1585399841379</updated>
     </task>
-    <option name="localTasksCounter" value="53" />
+    <task id="LOCAL-00053" summary="init">
+      <created>1585400034185</created>
+      <option name="number" value="00053" />
+      <option name="presentableId" value="LOCAL-00053" />
+      <option name="project" value="LOCAL" />
+      <updated>1585400034185</updated>
+    </task>
+    <option name="localTasksCounter" value="54" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -504,7 +507,6 @@
     <MESSAGE value="create dequeue method in MyCircularQueue.java" />
     <MESSAGE value="completed MyCircularQueue.java" />
     <MESSAGE value="completed MyMain of prob 5" />
-    <MESSAGE value="init" />
     <MESSAGE value="create constructor" />
     <MESSAGE value="create insert method" />
     <MESSAGE value="create getter and setter" />
@@ -513,17 +515,18 @@
     <MESSAGE value="create inOrder method" />
     <MESSAGE value="create traverse method and completed BinarySearchTree.java" />
     <MESSAGE value="completed MyMain.java of prob2" />
-    <option name="LAST_COMMIT_MESSAGE" value="completed MyMain.java of prob2" />
+    <MESSAGE value="init" />
+    <option name="LAST_COMMIT_MESSAGE" value="init" />
   </component>
   <component name="WindowStateProjectService">
     <state x="888" y="124" key="#com.intellij.ide.util.MemberChooser" timestamp="1585399033107">
       <screen x="0" y="0" width="1600" height="870" />
     </state>
     <state x="888" y="124" key="#com.intellij.ide.util.MemberChooser/0.0.1600.870@0.0.1600.870" timestamp="1585399033107" />
-    <state x="288" y="12" key="CommitChangelistDialog2" timestamp="1585399840244">
+    <state x="288" y="12" key="CommitChangelistDialog2" timestamp="1585400032717">
       <screen x="0" y="0" width="1600" height="870" />
     </state>
-    <state x="288" y="12" key="CommitChangelistDialog2/0.0.1600.870@0.0.1600.870" timestamp="1585399840244" />
+    <state x="288" y="12" key="CommitChangelistDialog2/0.0.1600.870@0.0.1600.870" timestamp="1585400032717" />
     <state x="154" y="67" key="DiffContextDialog" timestamp="1585202934275">
       <screen x="0" y="0" width="1600" height="870" />
     </state>
