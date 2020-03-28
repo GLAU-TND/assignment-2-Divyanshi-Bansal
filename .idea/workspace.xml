@@ -3,7 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="1c61601a-1e07-43ef-8b48-6c7d808b99f6" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/problem1/mybst/MyBinarySearchTree.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/problem1/mybst/MyBinarySearchTree.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/problem1/main/MyMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/problem1/main/MyMain.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -139,14 +139,7 @@
       <workItem from="1585252598638" duration="1581000" />
       <workItem from="1585295146473" duration="1745000" />
       <workItem from="1585327038686" duration="8132000" />
-      <workItem from="1585397801903" duration="3027000" />
-    </task>
-    <task id="LOCAL-00008" summary="make getter and setter for all variables in Student.java">
-      <created>1585203118650</created>
-      <option name="number" value="00008" />
-      <option name="presentableId" value="LOCAL-00008" />
-      <option name="project" value="LOCAL" />
-      <updated>1585203118650</updated>
+      <workItem from="1585397801903" duration="3272000" />
     </task>
     <task id="LOCAL-00009" summary="make main class of prob3">
       <created>1585203164043</created>
@@ -484,14 +477,20 @@
       <option name="project" value="LOCAL" />
       <updated>1585400761789</updated>
     </task>
-    <option name="localTasksCounter" value="57" />
+    <task id="LOCAL-00057" summary="create traverse method">
+      <created>1585400861185</created>
+      <option name="number" value="00057" />
+      <option name="presentableId" value="LOCAL-00057" />
+      <option name="project" value="LOCAL" />
+      <updated>1585400861185</updated>
+    </task>
+    <option name="localTasksCounter" value="58" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="make peek method in MyQueue.java" />
     <MESSAGE value="make dequeue and display method in MyQueue.java" />
     <MESSAGE value="make peek method for searching in MyQueue.java" />
     <MESSAGE value="make TreeNode.java" />
@@ -516,17 +515,18 @@
     <MESSAGE value="create insert method" />
     <MESSAGE value="create preOrder method" />
     <MESSAGE value="create inOrder method" />
-    <option name="LAST_COMMIT_MESSAGE" value="create inOrder method" />
+    <MESSAGE value="create traverse method" />
+    <option name="LAST_COMMIT_MESSAGE" value="create traverse method" />
   </component>
   <component name="WindowStateProjectService">
     <state x="888" y="124" key="#com.intellij.ide.util.MemberChooser" timestamp="1585400437179">
       <screen x="0" y="0" width="1600" height="870" />
     </state>
     <state x="888" y="124" key="#com.intellij.ide.util.MemberChooser/0.0.1600.870@0.0.1600.870" timestamp="1585400437179" />
-    <state x="258" y="40" width="906" height="789" key="CommitChangelistDialog2" timestamp="1585400760676">
+    <state x="258" y="40" width="906" height="789" key="CommitChangelistDialog2" timestamp="1585400859998">
       <screen x="0" y="0" width="1600" height="870" />
     </state>
-    <state x="258" y="40" width="906" height="789" key="CommitChangelistDialog2/0.0.1600.870@0.0.1600.870" timestamp="1585400760676" />
+    <state x="258" y="40" width="906" height="789" key="CommitChangelistDialog2/0.0.1600.870@0.0.1600.870" timestamp="1585400859998" />
     <state x="154" y="67" key="DiffContextDialog" timestamp="1585202934275">
       <screen x="0" y="0" width="1600" height="870" />
     </state>
