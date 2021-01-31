@@ -1,28 +1,29 @@
-/*
- *  Created by IntelliJ IDEA.
- *  User: Vaibhav
- *  Date: 23-Mar-20
- *  Time: 7:17 PM
- */
-package problem1.mybst;
+package problem2.main;
 
 import problem1.node.TreeNode;
+import problem4.myqueue.MyQueue;
 
-// to implement BinarySearchTree
-public class MyBinarySearchTree {
+public class BinarySearchTree {
     private TreeNode root;
     private int countRight;
+    private MyQueue preQueue;
+    private MyQueue postQueue;
+
+    public BinarySearchTree (MyQueue preQueue , MyQueue postQueue){
+        this.postQueue = postQueue;
+        this.preQueue = preQueue;
+    }
 
     public void insert(int data){
         TreeNode node = new TreeNode ( data );
         if(root == null){
-            return;
+            root = node;
         }
         else{
             TreeNode current = root;
             TreeNode parent = null;
             while(current != null){
-                parent = current;
+                parent = current ;
                 if(node.getData () < current.getData ()){
                     current = current.getLeft ();
                 }
@@ -47,6 +48,22 @@ public class MyBinarySearchTree {
         this.root = root;
     }
 
+    public MyQueue getPreQueue() {
+        return preQueue;
+    }
+
+    public void setPreQueue(MyQueue preQueue) {
+        this.preQueue = preQueue;
+    }
+
+    public MyQueue getPostQueue() {
+        return postQueue;
+    }
+
+    public void setPostQueue(MyQueue postQueue) {
+        this.postQueue = postQueue;
+    }
+
     public int getCountRight() {
         return countRight;
     }
@@ -55,14 +72,25 @@ public class MyBinarySearchTree {
         this.countRight = countRight;
     }
 
-    public  void preOrder(TreeNode temp){
+    public void preOrder(TreeNode temp){
         if(temp == null){
             return;
         }
         else{
-            System.out.println (temp.getData ());
+            preQueue.enqueue ( temp.getData () );
             preOrder ( temp.getLeft () );
             preOrder ( temp.getRight () );
+        }
+    }
+
+    public void postOrder(TreeNode temp){
+        if(temp == null){
+            return;
+        }
+        else{
+            postOrder ( temp.getLeft () );
+            postOrder ( temp.getRight () );
+            postQueue.enqueue ( temp.getData () );
         }
     }
 
